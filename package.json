@@ -1,0 +1,23 @@
+{
+  "name": "multivision",
+  "version": "0.0.1",
+  "description": "multivision-mean-stack-app\r ==========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhebballi/multivision-mean-stack-app.git"
+  },
+  "author": "Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhebballi/multivision-mean-stack-app/issues"
+  },
+  "homepage": "https://github.com/mhebballi/multivision-mean-stack-app",
+  "dependencies": {
+    "express": "^4.8.5",
+    "jade": "^1.5.0"
+  }
+}
